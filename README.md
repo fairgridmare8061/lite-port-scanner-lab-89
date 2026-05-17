@@ -1,2 +1,9 @@
-# lite-port-scanner-lab-89
-A simple port scanner project
+# Port Scanner
+
+A simple port scanner project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
